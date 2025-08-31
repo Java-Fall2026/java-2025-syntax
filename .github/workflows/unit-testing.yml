@@ -3,10 +3,10 @@ name: Lab Unit Tests
 on:
   push:
     branches:
-      - '*lab'
+      - main
   pull_request:
     branches:
-      - '*lab'
+      - main
   workflow_dispatch:
 
 jobs:
