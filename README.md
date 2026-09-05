@@ -1,5 +1,7 @@
 # Лабораторна робота 0 — синтаксис Java
 
+![tests](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Java-Fall2026/{{REPO}}/badges/badge.json)
+
 ## Що потрібно встановити
 
 1. **JDK 21.** Перевірте, чи вже встановлено:
